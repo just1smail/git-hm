@@ -1,0 +1,31 @@
+{
+  "LayoutTranslate": {
+    "Log": "Даромад",
+    "Connect": "Бо мо пайваст шавед"
+  },
+
+  "FooterTranslate": {
+    "company": "Дар бораи мо",
+    "services": "Хизматрасониҳо",
+    "prices": "Нархҳо",
+    "reviews": "Шарҳҳо",
+    "contacts": "Тамос",
+    "vacancies": "Ҷойҳои корӣ",
+    "privacy": "Созишномаи махфият",
+    "terms": "Шартҳои истифода",
+    "useful": "Муфид",
+    "howItWorks": "Чӣ тавр хидмати мо кор мекунад",
+    "operator": "Чӣ тавр бо оператор кор кардан",
+    "faq": "Саволҳои маъмул",
+    "popular": "Магозаҳои маъруф",
+    "blacklist": "Рӯйхати сиёҳ",
+    "sales": "Фурӯши ҷорӣ",
+    "projects": "Лоиҳаҳои махсус",
+    "discount": "50% барои расонидани аввал",
+    "regularDiscount": "Тахфифҳо барои муштариёни доимӣ",
+    "referral": "Барномаи роҳнамо",
+    "cashback": "Кэшбэк Mr. Rebates ва Rakuten",
+    "fraud": "Stop Fraud",
+    "rights": "© 2021 Okeypost. Ҳамаи ҳуқуқҳо ҳифз шудаанд."
+  }
+}

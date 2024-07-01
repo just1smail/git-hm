@@ -1,0 +1,31 @@
+{
+  "LayoutTranslate": {
+    "Log": "Login",
+    "Connect": "Connect with us"
+  },
+
+  "FooterTranslate": {
+    "company": "About Us",
+    "services": "Services",
+    "prices": "Prices",
+    "reviews": "Reviews",
+    "contacts": "Contacts",
+    "vacancies": "Vacancies",
+    "privacy": "Privacy Agreement",
+    "terms": "Terms of Use",
+    "useful": "Useful",
+    "howItWorks": "How Our Service Works",
+    "operator": "How to Work with an Operator",
+    "faq": "FAQ",
+    "popular": "Popular Stores",
+    "blacklist": "Blacklist",
+    "sales": "Current Sales",
+    "projects": "Special Projects",
+    "discount": "50% on First Delivery",
+    "regularDiscount": "Discounts for Regular Customers",
+    "referral": "Referral Program",
+    "cashback": "Cashback Mr. Rebates and Rakuten",
+    "fraud": "Stop Fraud",
+    "rights": "© 2021 Okeypost. All rights reserved."
+  }
+}

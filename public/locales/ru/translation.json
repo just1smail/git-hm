@@ -1,0 +1,31 @@
+{
+  "LayoutTranslate": {
+    "Log": "Вход",
+    "Connect": "Связаться с нами"
+  },
+
+  "FooterTranslate": {
+    "company": "О компании",
+    "services": "Услуги",
+    "prices": "Цены",
+    "reviews": "Отзывы",
+    "contacts": "Контакты",
+    "vacancies": "Вакансии",
+    "privacy": "Соглашение о персональных данных",
+    "terms": "Условия использования",
+    "useful": "Полезное",
+    "howItWorks": "Как работает наш сервис",
+    "operator": "Как работать с оператором",
+    "faq": "Ответы на частые вопросы",
+    "popular": "Популярные магазины",
+    "blacklist": "Черный список магазинов",
+    "sales": "Актуальные распродажи",
+    "projects": "Спецпроекты",
+    "discount": "50% на первую доставку",
+    "regularDiscount": "Скидки для постоянных клиентов",
+    "referral": "Реферальная программа",
+    "cashback": "Кэшбэк Mr. Rebates и Rakuten",
+    "fraud": "Stop Fraud",
+    "rights": "© 2021 Okeypost. Все права защищены."
+  }
+}

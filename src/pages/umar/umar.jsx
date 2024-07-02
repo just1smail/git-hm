@@ -1,10 +1,8 @@
 import React, { useState } from 'react'
 import Accordion from '@mui/material/Accordion';
-import AccordionActions from '@mui/material/AccordionActions';
 import AccordionSummary from '@mui/material/AccordionSummary';
 import AccordionDetails from '@mui/material/AccordionDetails';
 import ExpandMoreIcon from '@mui/icons-material/ExpandMore';
-import Button from '@mui/material/Button';
 
 const Umar = () => {
   const [data, setData] = useState([
@@ -141,11 +139,7 @@ const Umar = () => {
         </div>
       })}
       </section>
-
-
-
-
-        <div className='w-[85%] m-auto'>
+<div className='w-[85%] m-auto'>
         <div className='bg-gradient-to-r from-[#5B52A3] to-[#40B8EA] w-[100%] my-[50px] h-[210px] rounded-[36px] mx-auto'>
           <div className='w-[90%] mx-auto flex items-center justify-between'>
           <h1 className='font-[800] text-[35px] text-[#FFFFFF] pt-[70px]'>Остались вопросы? Спросите нас в соцсетях!</h1>
@@ -159,8 +153,6 @@ const Umar = () => {
         </div>
       </main>
       <div>
-      
-      
       </div>
     </div>
   )

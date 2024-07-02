@@ -142,7 +142,7 @@ const Umar = () => {
 <div className='w-[85%] m-auto'>
         <div className='bg-gradient-to-r from-[#5B52A3] to-[#40B8EA] w-[100%] my-[50px] h-[210px] rounded-[36px] mx-auto'>
           <div className='w-[90%] mx-auto flex items-center justify-between'>
-          <h1 className='font-[800] text-[35px] text-[#FFFFFF] pt-[70px]'>Остались вопросы? Спросите нас в соцсетях!</h1>
+          <h1 className='font-[800] text-[35px] text-[#FFFFFF] pt-[70px]'>Остались вопросы? Спросите нас в соцсетях!!!</h1>
           <div className='flex mt-[70px]'>
             <img className='mr-[5px]' src="../../../src/pages/umar/image/Ватсап.svg" alt="" />
             <img className='mr-[5px]' src="../../../src/pages/umar/image/Вайбер.svg" alt="" />

@@ -1,6 +1,5 @@
 import axios from 'axios';
 import React, { useEffect, useState } from 'react'
-import { FaWhatsapp, FaViber, FaComments } from 'react-icons/fa';
 import Box from '@mui/material/Box';
 import Drawer from '@mui/material/Drawer';
 import Button from '@mui/material/Button';
@@ -158,13 +157,10 @@ const Faruh = () => {
       <p className="text-xl text-white font-bold mb-4">Остались вопросы? Спросите нас в соцсетях!</p>
       <div className="flex space-x-4">
         <a href="https://wa.me" target="_blank" rel="noopener noreferrer" className="text-white text-3xl hover:text-gray-300">
-          <FaWhatsapp />
         </a>
         <a href="viber://chat" target="_blank" rel="noopener noreferrer" className="text-white text-3xl hover:text-gray-300">
-          <FaViber />
         </a>
         <a href="https://example.com" target="_blank" rel="noopener noreferrer" className="text-white text-3xl hover:text-gray-300">
-          <FaComments />
         </a>
       </div>
     </div>
